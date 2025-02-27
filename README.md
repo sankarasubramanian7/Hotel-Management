@@ -2,13 +2,9 @@
 
 Welcome to **Hotelier**, a modern and responsive hotel management user interface built with **React**. This UI can be used to manage various aspects of a hotel, such as booking management, room allocation, customer details, and much more. It's designed to provide a seamless experience for hotel managers and staff.
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Demo
+
+> Check out the live demo [here](https://todo-blond-ten.vercel.app/).
 
 ## Features
 - **User-friendly Interface:** A sleek and intuitive design that allows for easy navigation and efficient management.
@@ -22,7 +18,6 @@ Welcome to **Hotelier**, a modern and responsive hotel management user interface
 - **React:** Front-end library for building the UI.
 - **React Router:** For handling navigation between pages.
 - **CSS/SCSS:** For styling and layout.
-- **Axios:** For making HTTP requests (if used for API interactions).
 - **React Context API/Redux (Optional):** For managing global state.
 
 ## Installation
