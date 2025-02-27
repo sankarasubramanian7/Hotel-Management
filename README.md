@@ -4,7 +4,7 @@ Welcome to **Hotelier**, a modern and responsive hotel management user interface
 
 ## Demo
 
-> Check out the live demo [here](https://todo-blond-ten.vercel.app/).
+> Check out the live demo [here](https://hotel-mangement-ten.vercel.app/).
 
 ## Features
 - **User-friendly Interface:** A sleek and intuitive design that allows for easy navigation and efficient management.
@@ -32,4 +32,4 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ho.git
+   git clone https://github.com/sankarasubramanian7/Hotel-Management.git
